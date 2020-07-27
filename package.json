@@ -1,5 +1,5 @@
 {
-    "name": "honkit-plugin-styles-sass",
+    "name": "@adiwg/honkit-plugin-styles-sass",
     "description": "Use SASS stylesheets instead of CSS",
     "main": "index.js",
     "version": "2.0.0",
